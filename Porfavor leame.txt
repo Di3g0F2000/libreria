@@ -1,0 +1,8 @@
+aqui dejo el link de como exportar e importar una  base de datos en phpmyadmin:
+
+https://ticket.cdmon.com/es/support/solutions/articles/7000006414-c%c3%b3mo-importar-y-exportar-bases-de-datos-desde-phpmyadmin#:~:text=Una%20vez%20dentro%20del%20phpMyAdmin%2C%20selecciona%20la%20base,dos%20opciones%20para%20exportar%20la%20base%20de%20datos.?msclkid=8f82ba1fb8f811ec89c6d4f2e3af4c7e
+
+
+este es el link del proyecto en gifhub:
+
+https://github.com/Di3g0F2000/libreria.git
